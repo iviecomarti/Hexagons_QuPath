@@ -11,6 +11,10 @@ Here you can see the discussion in image.sc
 
 I hope that those scripts could be usefull for you all!
 
+If you use it, I would highly appreciate you to cite this repository
+
+Vieco-Martí I., Hexagons_QuPath () 
+
 Best,
 
 Isaac 
