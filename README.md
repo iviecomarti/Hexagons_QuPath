@@ -13,7 +13,7 @@ I hope that those scripts could be usefull for you all!
 
 If you use it, I would highly appreciate you to cite this repository
 
-Vieco-Martí I., Hexagons_QuPath () 
+Vieco-Martí I., Hexagons_QuPath (https://github.com/iviecomarti/Hexagons_QuPath) Date released: 2023-03-12
 
 Best,
 
