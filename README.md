@@ -16,7 +16,6 @@ If you use it, please cite this repository:
 Vieco-Martí I., Hexagons_QuPath (https://github.com/iviecomarti/Hexagons_QuPath) Date released: 2023-03-12
 
 
-I would higly appreciate you 
 
 Best,
 
